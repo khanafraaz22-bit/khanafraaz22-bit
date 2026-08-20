@@ -1,90 +1,97 @@
-<h1 align="center">Hi 👋, I'm Afraaz Khan</h1>
-<h3 align="center">
-AI • Machine Learning • Data Science • Backend Development
-</h3>
+# Hi 👋, I'm Afraaz Khan
+
+### AI • Machine Learning • Data Science • Backend Development
 
 <p align="center">
 Building intelligent systems that solve real-world business problems.
 </p>
 
-───
+---
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm an AI and Backend Developer with a strong interest in building intelligent software powered by Machine Learning and Large Language Models.
 
 My primary focus is designing AI systems that can analyze information, automate workflows, and assist businesses in making better decisions. I enjoy solving complex backend challenges and creating scalable applications that bridge AI with practical business use cases.
 
-───
+---
 
-🚀 Current Project
+## 🚀 Projects
 
-Strategic Intelligence Hub
-A part of the sales-intel-agent repository.
+### Strategic Intelligence Hub
+
+Developed during my internship at **InfraBeat Technologies** as part of the `sales-intel-agent` repository.
 
 An AI-powered business intelligence platform that researches companies, gathers relevant information from multiple sources, and generates strategic insights for enterprise sales teams.
 
-Key Features
-• AI-driven company research
-• Business intelligence generation
-• Strategic sales insights
-• Intelligent information aggregation
-• Automated report generation
-• Enterprise-focused backend architecture
+**Key Features**
 
-───
+* AI-driven company research
+* Business intelligence generation
+* Strategic sales insights
+* Intelligent information aggregation
+* Automated report generation
+* Enterprise-focused backend architecture
 
-🛠️ Tech Stack
+---
 
-Programming Languages
-• Python
-• Java
-• SQL
+## 🛠️ Tech Stack
 
-AI & Machine Learning
-• Machine Learning
-• Large Language Models (LLMs)
-• Prompt Engineering
-• AI Agents
+### Programming Languages
 
-Backend Development
-• FastAPI
-• Flask
-• REST APIs
+* Python
+* Java
+* SQL
 
-Data Science
-• Pandas
-• NumPy
-• Scikit-learn
-• Data Analysis
-• Data Visualization
+### AI & Machine Learning
 
-Databases
-• MySQL
-• SQLite
+* Machine Learning
+* Large Language Models (LLMs)
+* Prompt Engineering
+* AI Agents
 
-Tools
-• Git
-• GitHub
-• VS Code
-• Jupyter Notebook
+### Backend Development
 
-───
+* FastAPI
+* Flask
+* REST APIs
 
-💼 Areas of Interest
+### Data Science
 
-• Artificial Intelligence
-• Machine Learning
-• Data Science
-• Backend Development
-• Intelligent Automation
-• Enterprise AI
-• AI Agents
-• Business Intelligence
+* Pandas
+* NumPy
+* Scikit-learn
+* Data Analysis
+* Data Visualization
 
-───
+### Databases
 
-📈 GitHub Stats
+* MySQL
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Jupyter Notebook
+
+---
+
+## 💼 Areas of Interest
+
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Backend Development
+* Intelligent Automation
+* Enterprise AI
+* AI Agents
+* Business Intelligence
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -96,19 +103,19 @@ Tools
 
 </p>
 
-───
+---
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
-• Advanced Machine Learning
-• Agentic AI Systems
-• Retrieval-Augmented Generation (RAG)
-• Scalable Backend Systems
-• LLM Engineering
+* Advanced Machine Learning
+* Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* Scalable Backend Systems
+* LLM Engineering
 
-───
+---
 
-📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
 
@@ -116,14 +123,13 @@ Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/afraaz-khan-8aa75533a?utm_source=share_via&utm_content=profile&utm_medium=member_android
-/">
+<a href="https://www.linkedin.com/in/afraaz-khan-8aa75533a">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
 
-───
+---
 
 <p align="center">
 
