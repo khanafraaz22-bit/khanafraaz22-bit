@@ -1,10 +1,12 @@
+<div align="center">
+
 # Hi 👋, I'm Afraaz Khan
 
 ### AI • Machine Learning • Data Science • Backend Development
 
-<p align="center">
 Building intelligent systems that solve real-world business problems.
-</p>
+
+</div>
 
 ---
 
